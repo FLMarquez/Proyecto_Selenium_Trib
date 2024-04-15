@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite de Pruebas">
+    <test name="Test Suite">
+        <classes>
+            <class name="CP_01_SGT_Demo_Loguin"/>
+        </classes>
+    </test>
+</suite>
